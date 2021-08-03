@@ -1,5 +1,17 @@
 # Classification Models on the Titanic dataset from kaggle
  **This project is about classification with ScikitLearn on the Titanic dataset**
+### Technologies and Libraries
+- Python 3.8
+- pandas
+- ScikitLearn
+    - LogisticRegression
+    - DecisionTrees
+    - RandomForest
+    - make_pipeline
+    - ColumnTransformer
+- seaborn
+- matplotlib
+## Models used
  - Logistic Regression
  - Decision Trees
  - Random Forest
