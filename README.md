@@ -1,5 +1,5 @@
-# Classification Models on Titanic dataset from kaggle
- **This project is about classification with Scikitlearn**
+# Classification Models on the Titanic dataset from kaggle
+ **This project is about classification with ScikitLearn on the Titanic dataset**
  - Logistic Regression
  - Decision Trees
  - Random Forest
